@@ -1,2 +1,2 @@
 # PKC
-A MATLAB toolbox for a class of planar closed kinematic chains
+A MATLAB-based software toolbox for studying kinematics of a class of modular kinematic chains
